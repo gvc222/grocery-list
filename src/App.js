@@ -1,9 +1,7 @@
 
 import './App.css';
 import { List } from './components/List';
-import { NewList } from './components/NewList';
 import React from 'react';
-
 const App = () => {
 
   const groceryList = ["Baby Formula", "Bacon", "Bread", "Butter", "Cake", "Catsup", "Cereal", "Cheese", "Cocoa", "Cookies", "Coffee", "Cream", "Delicatess", "Eggs", "Fish", "Flour", "Frozen Food", "Fruit", "Jams", "Juices", "Matches", "Meats", "Milk", "Mustard", "Noodles", "Oil", "Onions", "Pepper", "Poultry", "Potatoes", "Rice", "Salt", "Soap", "Soups", "Spaghetti", "Spices", "Sugar", "Tea", "Vegetable", "Vinegar"];
